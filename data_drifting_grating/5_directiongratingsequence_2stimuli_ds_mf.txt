@@ -1,0 +1,35 @@
+directiongratingsequence
+
+color = false
+
+nangles = 8 8
+
+period = 100 15
+
+squareWave = 0 1
+
+cycles = 4 4
+
+preframeAngles = 300 120
+
+preframeStimuli = 180
+
+
+gratingwidthwhite = 120 112.5
+
+gratingwidthblack = 120 112.5
+
+
+contrasts = 1 1
+
+duration = 400 180
+
+meanintensity = 0.5 0.5 0.5
+
+coneIsolating = false
+
+useMask = false
+
+centerX = 432
+centerY = 240
+radius = 60
