@@ -1,0 +1,7 @@
+FrozenNoise
+stixelwidth = 1600
+stixelheight = 1200
+Nblinks = 1
+blackwhite = false
+RunningFrames=1800
+FrozenFrames=600
